@@ -1,0 +1,5 @@
+Compiling C:\Users\Leonardo\MPLABXProjects\pic_ph_atlas_emu.X\main on 14-jun-19 at 10:18
+C:\Users\Leonardo\MPLABXProjects\pic_ph_atlas_emu.X\main.c:0:0:  Info#300  More info:   *3* I/O error 32
+C:\Users\Leonardo\MPLABXProjects\pic_ph_atlas_emu.X\main.c:0:0:  Error#44  Internal Error - Contact CCS  OUTPUT FILE
+      1 Errors,  0 Warnings.
+Build Failed.
